@@ -1,8 +1,8 @@
 ## 歡迎光臨
 
-這是我的個人主頁
+這是我的個人主頁，還蠻大的，玩累了可以直接休息，沒問題的！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
