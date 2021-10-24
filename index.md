@@ -1,11 +1,12 @@
 <html>
 <head>
-
   </head>
+<style>
+  
+  </style>
 
 
-
-<body style = "color: blue;">
+<body style = "color: #6495ed;">
 <h2>歡迎光臨</h2>
 <p>
 這是我的個人主頁，還蠻大的，玩累了可以直接休息，沒問題的！
@@ -13,11 +14,12 @@
 
 
 <h3 style = "color: blue;">個人資料</h3>
-
-- 系級 : 資工二甲
-- 學號 : 409261586
-- 姓名 : 周晏菱
-### 無用連結
+ <ul>
+<li> 系級 : 資工二甲 </li>
+<li> 學號 : 409261586 </li>
+<li> 姓名 : 周晏菱 </li>
+ </ul>
+<h3>無用連結</h3>
   
   <a href = "https://www.instagram.com/rectan_base2/">Instagram</a>
   </p>
