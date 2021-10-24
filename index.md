@@ -4,9 +4,11 @@
 
 
 
-### Markdown
+### 個人資料
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-系級 : 資工二甲
+-學號 : 409261586
+-姓名 : 周晏菱
 
 ```markdown
 Syntax highlighted code block
