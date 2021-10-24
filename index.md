@@ -7,7 +7,7 @@ body {
     background-color: #20b2aa;
   }
 .header-color {
-    color: #000000;
+    color: #2f4f4f;
     }
 </style>
 <h2 style= "header-color">歡迎光臨</h2>
