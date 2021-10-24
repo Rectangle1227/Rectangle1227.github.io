@@ -14,7 +14,7 @@ body {
 <div> 
 <p>
 這是我的個人主頁，還蠻大的，玩累了可以直接休息，沒問題的！
-<img width: 100px; src = "https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5f27124544444c7565d9dc54c3227f3970aa7454.png" alt = "百變怪">
+<img src = "https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5f27124544444c7565d9dc54c3227f3970aa7454.png" alt = "百變怪">
 
 
 <h3 style= "header-color">個人資料</h3>
