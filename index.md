@@ -23,7 +23,5 @@ body {
 <h3 style= "color: #2f4f4f;">無用連結</h3>
   
   <a href = "https://www.instagram.com/rectan_base2/">Instagram</a>
-  </p>
-</div> 
 <body>
 
