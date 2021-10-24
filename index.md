@@ -2,7 +2,11 @@
 <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body style = "back-ground: #b0c4de;">
+<style>
+body {
+    background-color: #add8e6;
+  }
+</style>
 <h2 style = "color: #5f9ea0">歡迎光臨</h2>
 <div> 
 <p>
