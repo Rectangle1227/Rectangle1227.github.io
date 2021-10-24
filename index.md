@@ -1,9 +1,13 @@
-<head></head>
+<head>
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
 <body style = "back-ground: #b0c4de;">
 <h2 style = "color: #5f9ea0">歡迎光臨</h2>
+<div> 
 <p>
 這是我的個人主頁，還蠻大的，玩累了可以直接休息，沒問題的！
-<img src = "https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5f27124544444c7565d9dc54c3227f3970aa7454.png" alt = "百變怪">
+<img width: 100px; src = "https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5f27124544444c7565d9dc54c3227f3970aa7454.png" alt = "百變怪">
 
 
 <h3 style = "color: #5f9ea0;">個人資料</h3>
@@ -16,5 +20,6 @@
   
   <a href = "https://www.instagram.com/rectan_base2/">Instagram</a>
   </p>
+</div> 
 <body>
 
