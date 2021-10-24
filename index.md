@@ -1,21 +1,25 @@
 <html>
 <head>
-  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
+
   </head>
 
 
 
-
+<body style = "color: blue;">
 <h2>歡迎光臨</h2>
 <p>
 這是我的個人主頁，還蠻大的，玩累了可以直接休息，沒問題的！
-<img src = "http://i2.hdslb.com/bfs/archive/cbd8e9c8d5f4e804421f5892f242fa532616dea4.jpg">
+<img src = "https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5f27124544444c7565d9dc54c3227f3970aa7454.png" alt = "百變怪">
 
 
-### 個人資料
+<h3 style = "color: blue;">個人資料</h3>
 
 - 系級 : 資工二甲
 - 學號 : 409261586
 - 姓名 : 周晏菱
+### 無用連結
+  
+  <a href = "https://www.instagram.com/rectan_base2/">Instagram</a>
   </p>
+<body>
 </html>
