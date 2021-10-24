@@ -4,10 +4,10 @@
 </head>
 <style>
 body {
-    background-color: #5f9ea0;
+    background-color: #20b2aa;
   }
 .header-color {
-    color: #4169e1;
+    color: #000000;
     }
 </style>
 <h2 style= "header-color">歡迎光臨</h2>
