@@ -4,7 +4,7 @@
 </head>
 <style>
 body {
-    background-color: #20b2aa;
+    background-color: #f0f8ff;
   }
 .header-color {
     color: #2f4f4f;
