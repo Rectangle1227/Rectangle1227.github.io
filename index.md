@@ -1,9 +1,4 @@
-<html>
-<head>
-  </head>
-
-
-
+<head></head>
 <body style = "back-ground: #b0c4de;">
 <h2 style = "color: #5f9ea0">歡迎光臨</h2>
 <p>
@@ -22,4 +17,4 @@
   <a href = "https://www.instagram.com/rectan_base2/">Instagram</a>
   </p>
 <body>
-</html>
+
