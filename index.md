@@ -1,12 +1,15 @@
+<style>
+  h2 {
+  color: #5f9ea0;
+  }
+</style>
 <html>
 <head>
   </head>
-<style>
-  
-  </style>
 
 
-<body style = "color: #6495ed;">
+
+<body>
 <h2>歡迎光臨</h2>
 <p>
 這是我的個人主頁，還蠻大的，玩累了可以直接休息，沒問題的！
