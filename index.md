@@ -4,7 +4,7 @@
 </head>
 <style>
 body {
-    background-color: #f0f8ff;
+    background-color: #000000;
   }
 </style>
 <h2 style= "color: #2f4f4f;">歡迎光臨</h2>
