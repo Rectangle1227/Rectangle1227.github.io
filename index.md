@@ -1,12 +1,7 @@
 <head>
-<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<style>
-body {
-    background-color: #f8f8ff;
-  }
-</style>
 <h2 style= "color: #2f4f4f;">歡迎光臨</h2>
 <div> 
 <p>
