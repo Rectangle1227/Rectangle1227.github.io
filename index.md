@@ -14,14 +14,15 @@
   </head>
  
   <body>
-    <h2 class="animated ">超級注意</h2>
+    <h2 class="animated bounce">超級注意</h2>
     <div class="btn btn-block btn-primary"><button id="btn1">好</button></div>
     <div id = "img1">
     <img style="display: none" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/33607109/android/sticker.png">
     </div>
     
     <h3>個人連結</h3>
-     <div class = "text-danger"><a herf = "https://www.instagram.com/rectangle1227/">Instagram</a>
+     <div class = "text-danger">
+       <a herf = "https://www.instagram.com/rectangle1227/">Instagram</a>
     </div>
   </body>
 </html>
