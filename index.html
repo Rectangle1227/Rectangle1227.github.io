@@ -4,30 +4,38 @@
     <title>超級注意!</title>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css" integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous"><!--PureCSS-->
-    <script type="text/javascript" src="easyui/jquery.min.js"></script> <!--Jquery-->
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous"><!--Bootstrap-->
-<script>
-    $(document).ready(function(){
-      $("#noo").click(function(){
-        alert('haha');
-      })
-    });
-    
-</script>
-</head>
-<style>
-    body{
-        background-color: rgb(169, 184, 214);
+    <script>
         
-    }
-    .border{
-        border-color: whitesmoke;
-        border-width: 10px;
-        border-radius: 50%;
-    }
-</style>
+      $(document).ready(function() {
+        $("#metamon").hide();
+        $("#pokemon").click(function(){
+          $("#metamon").toggle(1000);
+        });
+        $("#noo").click(function(){
+            alert('聽話，讓我看看!');
+        });
+      });
+    
+        
+    </script>
+    <style>
+        body{
+            background-color: rgb(169, 184, 214);
+            
+        }
+        .border{
+            border-color: whitesmoke;
+            border-width: 10px;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+
 <div class="container-fluid">
 <body>
+    
 <h1 class="text-center text-primary" >
     超級注意!
 </h1>
@@ -46,14 +54,14 @@
     <li>接受</li>
 </ol>
 </div>
-<h3 class="text-primary" id="curry">咖哩飯的表單</h3>
+<h3 class="text-second" id="curry">咖哩飯的表單</h3>
 <div style="color: rgb(65, 52, 114);">
 <form action="https://rectangle1227.github.io/waimai">
     <div class="row">
 <label for="RR">
-    <div class="col-xs-6"><input type="radio" id="RR" value="RR" name="咖哩拌飯" checked>太爆了阿拌
+    <div class="col-xs-6 text-center"><input type="radio" id="RR" value="RR" name="咖哩拌飯" checked>太爆了阿拌
 </label></div>
-<div class="col-xs-6"><label for="RRRR">
+<div class="col-xs-6 text-center"><label for="RRRR">
     <input type="radio" id="RRRR" value="RR" name="咖哩拌飯">我們來嚐一下味道啊
 </label></div>
 </div>
@@ -67,7 +75,8 @@
 
 </form>
 <button id="pokemon" class="btn btn-primary">My favorite Pokemon</button>
-<img id="fav"  class="border img-responsive" src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5f27124544444c7565d9dc54c3227f3970aa7454.png" alt="百變怪">
+<div id="metamon" style="display: none;"><img class="border img-responsive" src="https://tw.portal-pokemon.com/play/resources/pokedex/img/pm/5f27124544444c7565d9dc54c3227f3970aa7454.png" alt="百變怪">
+    </div>
 </div>
 <div class="row">
     <div class="col-xs-4"><h3 class="text-second">讓我看看</h3><br></div>
