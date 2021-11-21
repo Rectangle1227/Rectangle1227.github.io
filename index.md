@@ -15,7 +15,7 @@
  
   <body>
     <h2 class="animated ">超級注意</h2>
-    <button id="btn1">好</button>
+    <div class="btn btn-block btn-primary"><button id="btn1">好</button></div>
     <div id = "img1">
     <img style="display: none" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/33607109/android/sticker.png">
     </div>
