@@ -17,7 +17,7 @@
     <h2 class="animated ">超級注意</h2>
     <button id="btn1">好</button>
     <div id = "img1">
-    <img src="https://stickershop.line-scdn.net/stickershop/v1/sticker/33607104/android/sticker.png">
+    <img style="display: none" src="https://stickershop.line-scdn.net/stickershop/v1/sticker/33607104/android/sticker.png">
     </div>
     
     <h3>個人連結</h3>
