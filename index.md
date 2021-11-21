@@ -21,7 +21,7 @@
     </div>
     
     <h3>個人連結</h3>
-     <div class = "text-danger"><a herf = "https://www.instagram.com/rectangle1227">Instagram</a>
+     <div class = "text-danger"><a herf = "https://www.instagram.com/rectangle1227/">Instagram</a>
     </div>
   </body>
 </html>
